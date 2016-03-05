@@ -1,6 +1,5 @@
 .idea
-
-_site
+#_site
 .DS_Store
 *.sublime-project
 *.sublime-workspace
@@ -8,4 +7,4 @@ codekit-config.json
 node_modules
 _asset_bundler_cache
 .sass-cache
-.jekyll-metadata
+#.jekyll-metadata
